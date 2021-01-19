@@ -2,7 +2,7 @@ language: cpp
 
 notifications:
     email:
-        on_sucess: always
+        on_success: always
         on_failure: always
 
 script:
