@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void func(int a, int b)
+int func(int a, int b)
 {
 	return a + 1;
 }
@@ -10,7 +10,7 @@ void func(int a, int b)
 int main()
 {
 	cout << "hello-CI" << endl;
-	func(1);
+	func(1, 1);
 	return 0;
 }
 
