@@ -13,6 +13,8 @@ int main()
 	func(1, 1);
 	func(1, 1);
 	func(1, 1);
+	func(1, 2);
+	func(1, 6);
 	return 0;
 }
 
